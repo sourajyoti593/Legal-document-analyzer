@@ -1,0 +1,10 @@
+langchain
+openai
+pinecone-client
+PyMuPDF
+pypdf
+slack_bolt
+slack_sdk
+fastapi
+uvicorn
+python-dotenv
